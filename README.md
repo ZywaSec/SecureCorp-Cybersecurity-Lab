@@ -208,8 +208,7 @@ All activities were performed inside an isolated virtual lab, on machines owned 
 **Fatima Ezzahrae Ouhmich**
 Cybersecurity and Embedded Systems Engineering, ENSA Tetouan
 
-- GitHub: [@ZywaSec](https://github.com/ZywaSec)
-- LinkedIn: *add your profile link here*
+
 
 ## License
 
